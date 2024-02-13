@@ -1,3 +1,7 @@
+# ignore all PNG files specifically within the result_retriever/lib subdirectory
+
+result_retriever/lib/*.png
+
 *.gem
 *.rbc
 /.config
